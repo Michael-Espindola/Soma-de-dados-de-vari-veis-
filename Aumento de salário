@@ -1,0 +1,4 @@
+Salário=750 # Atribuição de valor 750 na  variável Salario
+Aumento=0.15 # Atribuição de valor 15% representada de modo decimal que pode ser interpretada em Python na variável Aumento
+Resultado=(Salario + (Salario * Aumento / Salario)) # Atribuir como valor da variável Resultado o resultado da operação descrevendo a fórmula da Porcentagem a soma do salário
+print(" O novo salário com aumento de 15% é:" , Resultado) # Imprimir na tela o texto entre aspas "" que será utilizado como mensagem chamando a variável Resultado pelo nome
