@@ -1,0 +1,5 @@
+A=2 # Atribuição de valor 2 na variável A
+B=3 # Atribuição de valor 3 na variável B
+C=4 # Atribuição de valor 4 na variável C
+Resultado = A+B+C # Atribuir como valor o resultado da operação de soma dos valores das 3 variáveis na variável Resultado
+print("A soma dos valores das 3 variáveis é", Resultado # Imprimir na tela o resultado da soma dos valores das 3 variáveis exibindo a mensagem que vai aparecer no console entre aspas "" e chamando á variável Resultado pelo nome
